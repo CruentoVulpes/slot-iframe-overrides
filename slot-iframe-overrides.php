@@ -3,7 +3,7 @@
  * Plugin Name: Slot Iframe Overrides
  * Description: Замена урла поста на свой iframe.
  * Author: Vlad
- * Version: 1.0.0
+ * Version: 1.0.1
  * Text Domain: slot-iframe-overrides
  */
 
